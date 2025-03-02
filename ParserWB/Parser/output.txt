@@ -1,0 +1,45 @@
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/152439652/detail.aspx"}
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/87094135/detail.aspx"}
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/158127318/detail.aspx"}
+{"title": "Мокасины кожаные", "brand": "ROOMAN", "total_reviews": 1718, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/58248115/detail.aspx"}
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/158132253/detail.aspx"}
+{"title": "Мокасины кожаные натуральные", "brand": "New Dark", "total_reviews": 1578, "average_score": 4.4, "url": "https://www.wildberries.ru/catalog/48021589/detail.aspx"}
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/158132254/detail.aspx"}
+{"title": "Мокасины летние", "brand": "STARRIER", "total_reviews": 1796, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/195302872/detail.aspx"}
+{"title": "Мокасины", "brand": "STARRIER", "total_reviews": 4859, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/195302866/detail.aspx"}
+{"title": "Перфорированные мокасины натуральный нубук", "brand": "PODIO", "total_reviews": 374, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/210238942/detail.aspx"}
+{"title": "Мокасины кожаные", "brand": "ROOMAN", "total_reviews": 1718, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/241024982/detail.aspx"}
+{"title": "Мокасины - комфорт и стиль на каждый день!", "brand": "Riviera", "total_reviews": 1099, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/248695852/detail.aspx"}
+{"title": "Мокасины кожаные с перфорацией дышащие демисезонные", "brand": "IERDI", "total_reviews": 2186, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/153987306/detail.aspx"}
+{"title": "Мокасины летние текстильные", "brand": "T.TACCARDI", "total_reviews": 2162, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/18789369/detail.aspx"}
+{"title": "Мокасины офисные натуральная кожа", "brand": "IERDI", "total_reviews": 10694, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/36153547/detail.aspx"}
+{"title": "Мокасины натуральная кожа", "brand": "IERDI", "total_reviews": 10694, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/160293421/detail.aspx"}
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/86649319/detail.aspx"}
+{"title": "Мокасины", "brand": "STARRIER", "total_reviews": 4859, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/195302864/detail.aspx"}
+{"title": "Мокасины офисные классические", "brand": "MARTIN", "total_reviews": 11631, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/158127317/detail.aspx"}
+{"title": "Мокасины летние кожаные", "brand": "ROOMAN", "total_reviews": 1304, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/72065241/detail.aspx"}
+{"title": "Мокасины летние", "brand": "STARRIER", "total_reviews": 1796, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/195302873/detail.aspx"}
+{"title": "Мокасины из натуральной кожи", "brand": "RUYO", "total_reviews": 73, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/245810513/detail.aspx"}
+{"title": "Мокасины из натуральной кожи", "brand": "Bi Bari", "total_reviews": 856, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/155380275/detail.aspx"}
+{"title": "Мокасины кожаные", "brand": "Bi Bari", "total_reviews": 3506, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/72843434/detail.aspx"}
+{"title": "Мокасины - комфорт и стиль на каждый день!", "brand": "Riviera", "total_reviews": 1099, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/248713068/detail.aspx"}
+{"title": "Мокасины летние перфорированные", "brand": "Xamen", "total_reviews": 528, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/156651024/detail.aspx"}
+{"title": "Мокасины натуральная кожа", "brand": "IERDI", "total_reviews": 10694, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/146740319/detail.aspx"}
+{"title": "Мокасины натуральная кожа", "brand": "IERDI", "total_reviews": 10694, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/32674428/detail.aspx"}
+{"title": "Кожаные туфли перфорированные", "brand": "PODIO", "total_reviews": 374, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/214867655/detail.aspx"}
+{"title": "Мокасины классические из натуральной кожи", "brand": "A-stal", "total_reviews": 706, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/150459376/detail.aspx"}
+{"title": "Мокасины кожаные натуральные", "brand": "New Dark", "total_reviews": 1578, "average_score": 4.4, "url": "https://www.wildberries.ru/catalog/57564214/detail.aspx"}
+{"title": "Мокасины из натуральной кожи", "brand": "Bi Bari", "total_reviews": 3506, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/79889108/detail.aspx"}
+{"title": "Мокасины", "brand": "STARRIER", "total_reviews": 4859, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/195302870/detail.aspx"}
+{"title": "топсайдеры из натуральной кожи", "brand": "BELLE BAGNINO", "total_reviews": 146, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/95309120/detail.aspx"}
+{"title": "Мокасины кожаные демисезон", "brand": "MAGMA", "total_reviews": 214, "average_score": 4.6, "url": "https://www.wildberries.ru/catalog/211874328/detail.aspx"}
+{"title": "Мокасины кожаные летние", "brand": "ROOMAN", "total_reviews": 207, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/198518516/detail.aspx"}
+{"title": "Мокасины - комфорт и стиль на каждый день!", "brand": "Riviera", "total_reviews": 1099, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/248709708/detail.aspx"}
+{"title": "Мокасины - комфорт и стиль на каждый день!", "brand": "Riviera", "total_reviews": 1099, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/248712628/detail.aspx"}
+{"title": "Мокасины натуральная кожа", "brand": "Xan", "total_reviews": 863, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/81759852/detail.aspx"}
+{"title": "Перфорированные мокасины натуральный нубук", "brand": "PODIO", "total_reviews": 374, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/297149131/detail.aspx"}
+{"title": "Мокасины летние", "brand": "T.TACCARDI", "total_reviews": 380, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/211466138/detail.aspx"}
+{"title": "Мокасины", "brand": "STARRIER", "total_reviews": 4859, "average_score": 4.8, "url": "https://www.wildberries.ru/catalog/195302876/detail.aspx"}
+{"title": "Мокасины натуральная кожа", "brand": "A.R.M.", "total_reviews": 2394, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/113503312/detail.aspx"}
+{"title": "Мокасины слипоны нубук", "brand": "YARIKO", "total_reviews": 2838, "average_score": 4.7, "url": "https://www.wildberries.ru/catalog/90311460/detail.aspx"}
+{"title": "Кожаные мокасины на шнурках", "brand": "Benetti", "total_reviews": 0, "average_score": 0.0, "url": "https://www.wildberries.ru/catalog/307977658/detail.aspx"}
