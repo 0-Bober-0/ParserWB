@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Parser</title>
+</head>
+<body>
+<h1>Парсинг страницы WB</h1>
+<form th:method="POST" th:action="@{/products}" th:object="${products}">
+    <label for="fullName">Введите адрес: </label>
+    <input type="text" th:field="*{urlForm}" id="fullName"/>
+    <div style="color:red" th:if="${#fields.hasErrors('urlForm')}" th:errors="*{urlForm}">Full Name Error</div>
+    <br/>
+    <input type="submit" value="Начать парсинг"/>
+</form>
+
+</body>
+</html>
