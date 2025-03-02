@@ -16,6 +16,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
  * Конфигурация Spring для настроек Kafka и других бинов приложения.
+ * @author Daev Alexandr
  */
 @EnableScheduling
 @Configuration

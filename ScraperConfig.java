@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Класс для загрузки конфигурации из файла scraper.properties.
- *
  * @author Alexandr Daev
  */
 @NoArgsConstructor
