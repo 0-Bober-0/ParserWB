@@ -23,6 +23,7 @@ import static org.mockito.Mockito.*;
 
 /**
  * Тесты для Consumer (компонент приема сообщений из Kafka).
+ * @author Daev Alexander
  */
 @ExtendWith(MockitoExtension.class)
 public class ConsumerTest {
