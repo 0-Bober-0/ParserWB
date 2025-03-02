@@ -1,0 +1,9 @@
+
+spring:
+  kafka:
+    consumer:
+      group-id: "default"
+
+topic:
+  name: t.product.order
+  name_n: t.product.order_product
