@@ -4,7 +4,7 @@
 Написать парсер для маркетплейса Wildberries, который собирает такие данные как: Название товара, название бренда, количество отзывов, средняя оценка и ссылка на карточку товара
 
 ## Стэк
-Spring(MVC, Boot, Data, Validator), Selenium, Kafka, Docker, PostgreSQL, Kafdrop, Adminer, Lombok, Javadoc, logging
+Spring(Boot, Data, Validator), JUnit, Selenium, Kafka, Docker, PostgreSQL, Kafdrop, Adminer, Lombok, Javadoc, logging
 
 ## Установка и запуск
 ### Порты
