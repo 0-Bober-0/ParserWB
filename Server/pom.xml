@@ -27,6 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
+		<modernizer-maven-plugin.version>2.9.0</modernizer-maven-plugin.version>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
