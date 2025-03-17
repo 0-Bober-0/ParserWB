@@ -149,6 +149,11 @@
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
+			<pluginRepository>
+    <id>gaul</id>
+    <url>https://gaul.github.io/maven-repository</url>
+</pluginRepository>
+
 			<id>spring-milestones</id>
 			<name>Spring Milestones</name>
 			<url>https://repo.spring.io/milestone</url>
