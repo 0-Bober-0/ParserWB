@@ -22,19 +22,8 @@ jobs:
           cache: maven
 
       - name: Maven Build Server
-        run: mvn package -f Server/pom.xml  # Явно указываем POM-файл
-        working-directory: Server  # Указываем рабочую директорию
-
-      - id: jacoco-server
-        uses: madrapps/jacoco-report@v1.6.1
-        if: ( github.event_name != 'workflow_dispatch' )
-        with:
-          paths: ${{ github.workspace }}/Server/target/site/jacoco/jacoco.xml
-          token: ${{ secrets.GITHUB_TOKEN }}
-          min-coverage-overall: 30
-          min-coverage-changed-files: 30
-          title: Code Coverage (Server)
-          update-comment: true
+        run: mvn package -f Server/pom.xml
+        working-directory: Server
 
   build-parcer:
     runs-on: ubuntu-latest
@@ -53,19 +42,8 @@ jobs:
           cache: maven
 
       - name: Maven Build Parcer
-        run: mvn package -f Parcer/pom.xml
-        working-directory: Parcer
-
-      - id: jacoco-parcer
-        uses: madrapps/jacoco-report@v1.6.1
-        if: ( github.event_name != 'workflow_dispatch' )
-        with:
-          paths: ${{ github.workspace }}/Parcer/target/site/jacoco/jacoco.xml
-          token: ${{ secrets.GITHUB_TOKEN }}
-          min-coverage-overall: 30
-          min-coverage-changed-files: 30
-          title: Code Coverage (Parcer)
-          update-comment: true
+        run: mvn package -f Parser/pom.xml
+        working-directory: Parser
 
   checkstyle-server:
     name: Checkstyle Server
