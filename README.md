@@ -20,7 +20,7 @@ Spring(Boot, Data, Validator), JUnit, Selenium, Kafka, Docker, PostgreSQL, Kafdr
     ```
 2. Перейдите в директорию проекта:
     ```bash
-    cd ParserWB/ParserWB
+    cd ParserWB
     ```
 3. Запустите проект с помощью Docker:
    ```bash
