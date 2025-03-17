@@ -22,12 +22,12 @@ jobs:
           cache: maven
 
       - name: Maven Build Server
-        run: mvn package  # Убрали Server/pom.xml
+        run: mvn package
         working-directory: Server
 
-  build-parcer:
+  build-parser:
     runs-on: ubuntu-latest
-    name: Build Parcer
+    name: Build Parser
     permissions:
       contents: read
       packages: write
@@ -41,8 +41,8 @@ jobs:
           distribution: 'temurin'
           cache: maven
 
-      - name: Maven Build Parcer
-        run: mvn package # Убрали Parser/pom.xml
+      - name: Maven Build Parser
+        run: mvn package
         working-directory: Parser
 
   checkstyle-server:
@@ -62,7 +62,7 @@ jobs:
           cache: maven
 
       - name: Maven Checkstyle Server
-        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check #Убрали Server/pom.xml
+        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check
         working-directory: Server
 
   checkstyle-parcer:
@@ -82,5 +82,5 @@ jobs:
           cache: maven
 
       - name: Maven Checkstyle Parcer
-        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check #Убрали Parcer/pom.xml
+        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check
         working-directory: Parser
