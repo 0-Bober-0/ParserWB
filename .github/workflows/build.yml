@@ -22,7 +22,7 @@ jobs:
           cache: maven
 
       - name: Maven Build Server
-        run: mvn package Server/pom.xml
+        run: mvn package  # Убрали Server/pom.xml
         working-directory: Server
 
   build-parcer:
@@ -42,7 +42,7 @@ jobs:
           cache: maven
 
       - name: Maven Build Parcer
-        run: mvn package Parser/pom.xml
+        run: mvn package # Убрали Parser/pom.xml
         working-directory: Parser
 
   checkstyle-server:
@@ -62,7 +62,7 @@ jobs:
           cache: maven
 
       - name: Maven Checkstyle Server
-        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check Server/pom.xml
+        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check #Убрали Server/pom.xml
         working-directory: Server
 
   checkstyle-parcer:
@@ -82,5 +82,5 @@ jobs:
           cache: maven
 
       - name: Maven Checkstyle Parcer
-        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check Parcer/pom.xml
-        working-directory: Parcer
+        run: mvn checkstyle:check modernizer:modernizer spotbugs:check pmd:check pmd:cpd-check #Убрали Parcer/pom.xml
+        working-directory: Parser
