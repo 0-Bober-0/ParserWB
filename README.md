@@ -50,8 +50,8 @@ Spring(Boot, Data, Validator), JUnit, Selenium, Kafka, Docker, PostgreSQL, Kafdr
    ```
 ### Просмотр документации
 Документация будет сгенерирована в файлы по путям: 
-- **"ParserWB\ParserWB\Parser\target\reports\apidocs\index.html"**
-- **"ParserWB\ParserWB\Server\target\reports\apidocs\index.html"**
+- **"ParserWB\Parser\target\reports\apidocs\index.html"**
+- **"ParserWB\Server\target\reports\apidocs\index.html"**
 
 ## Скриншоты работы
 ### Стартовая страница
